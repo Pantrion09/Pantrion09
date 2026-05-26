@@ -9,7 +9,7 @@
 
 <br>
 
-<!-- GIF Гриффита как баннер -->
+<!-- чё ты ищешь бля?!-->
 <img src="https://github.com/Pantrion09/Pantrion09/raw/main/griffith-berserk.gif" width="400px" style="border-radius: 12px;" />
 
 <br><br>
