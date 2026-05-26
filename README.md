@@ -22,9 +22,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pantrion09&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pantrion09&layout=compact&theme=midnight-purple&hide_border=true" width="49%" />
-
 <img src="https://streak-stats.demolab.com?user=Pantrion09&theme=midnight-purple&hide_border=true" width="60%" />
 
 </div>
