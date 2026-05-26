@@ -8,15 +8,6 @@
 
 ---
 
-<div align="center">
-
-> 「 夢を持つ者は強い 」
->
-> *— Тот, кто имеет мечту — силён. / Berserk*
-
-</div>
-
----
 
 ## 〔 Stats 〕
 
@@ -28,15 +19,6 @@
 
 ---
 
-<div align="center">
-
-> 「 運命に抗え — たとえ神すら敵に回しても 」
->
-> *— Сражайся с судьбой — даже если сам Бог против тебя. / Guts*
-
-</div>
-
----
 
 ## 〔 Connect 〕
 
@@ -49,11 +31,6 @@
 
 ---
 
-<div align="center">
-
-> 「 剣の道を歩む者は孤独である — しかし、それが我が道だ 」
->
-> *— Тот, кто идёт путём меча — одинок. Но это мой путь. / Guts*
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Pantrion09.Pantrion09&left_color=black&right_color=9b59b6)
 
